@@ -1,3 +1,3 @@
-# sample-data-analysis-using-streamlitPython-
+# sample-data-analysis-using-Python and ml-
 sample data analysis using Python and ml
 
