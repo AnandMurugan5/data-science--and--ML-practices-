@@ -1,0 +1,14 @@
+#Install require lib:
+
+pandas -> done
+pandas_profiling -> done
+numpy -> done
+matplotlib -> done
+seaborn -> done
+
+mysql_connector_python -> done
+sklearn -> done
+
+django -> done
+
+
